@@ -8,9 +8,7 @@ function App() {
         <h1>GITHUB PAGES</h1>
         <h1>GITHUB PAGES</h1>
         <h1>GITHUB PAGES</h1>
-
-
-
+        <h1>Remove homepage</h1>
     </div>
   );
 }
